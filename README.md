@@ -8,9 +8,10 @@ In this project I will create a scenario in which I use active directory to crea
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 
-<h2>Video Demonstration</h2>
+<h2>Example of Azure Active Directory Hierarchy</h2>
+<img src="https://i.imgur.com/ISpqjhI.png" alt="Microsoft Active Directory Logo"/>
+</p>
 
-- ### [](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
