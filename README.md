@@ -1,6 +1,5 @@
 # My-Active-Directory-Scenario
-In this project I will create a scenario in which I use active directory
-<p align="center">
+In this project I will create a scenario in which I use active directory to create several users and manage files, users, groups, peripherals and network devices.
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
