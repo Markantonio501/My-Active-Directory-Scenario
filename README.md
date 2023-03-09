@@ -1,4 +1,4 @@
-#Azure Active Directory Walkthrough
+Azure Active Directory Walkthrough
 In this project I will create a scenario in which I use active directory to create several users and manage files, users, groups, peripherals and network devices.
 
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
