@@ -31,7 +31,7 @@ Azure Active Directory (Azure AD) is a cloud-based identity and access managemen
 - [Ensure Connectivity between the client and Domain Controller](https://youtu.be/UkznzGTVZ1w)
 <img src="https://i.imgur.com/o1aW6V7.png" height="140%" width="140%" alt="Disk Sanitization Steps"/>
 
-- [Install Active Directory](https://youtu.be/KB8CZxAeZ2c)
+- [Install Active Directory](https://youtu.be/CtCgQSvhgfo)
 <img src="https://i.imgur.com/bFP1ax5.jpg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 
 - [Create an Admin and Normal User Account in AD](https://youtu.be/54BPxoaq7UY)
@@ -40,5 +40,5 @@ Azure Active Directory (Azure AD) is a cloud-based identity and access managemen
 - [Join Client-1 to your domain (mydomain.com)](https://youtu.be/3Q762NV63FM)
 <img src="https://i.imgur.com/bFP1ax5.jpg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 
-- [Setup Remote Desktop for non-administrative users on Client-1](https://youtu.be/3Q762NV63FM)
+- [Setup Remote Desktop for non-administrative users on Client-1](https://youtu.be/sdOH_2n7CxE)
 <img src="https://i.imgur.com/bFP1ax5.jpg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
