@@ -27,8 +27,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Setup Resources in Azure-[Step 1](https://youtu.be/GY8i0h2KDEM)
-<img src="https://i.imgur.com/bFP1ax5.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+- [Setup Resources in Azure](https://youtu.be/GY8i0h2KDEM)
+<img src="https://i.imgur.com/bFP1ax5.jpg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 - Step 2 -[Step 2](https://youtu.be/UkznzGTVZ1w)
 - Step 3 -[Step 3](https://youtu.be/KB8CZxAeZ2c)
 - Step 4 -[Step 4](https://youtu.be/54BPxoaq7UY)
