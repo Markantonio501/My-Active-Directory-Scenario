@@ -29,7 +29,7 @@ Azure Active Directory (Azure AD) is a cloud-based identity and access managemen
 <img src="https://i.imgur.com/YwRLdQA.png" height="140%" width="140%" alt="Disk Sanitization Steps"/>
 
 - [Ensure Connectivity between the client and Domain Controller](https://youtu.be/UkznzGTVZ1w)
-<img src="https://i.imgur.com/bFP1ax5.jpg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/o1aW6V7.png" height="140%" width="140%" alt="Disk Sanitization Steps"/>
 
 - [Install Active Directory](https://youtu.be/KB8CZxAeZ2c)
 <img src="https://i.imgur.com/bFP1ax5.jpg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
