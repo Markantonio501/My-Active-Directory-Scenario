@@ -1,15 +1,13 @@
-Azure Active Directory Walkthrough
-In this project I will create a scenario in which I use active directory to create several users and manage files, users, groups, peripherals and network devices.
-
+<h1>Azure Active Directory Walkthrough</h1>
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+Azure Active Directory (Azure AD) is a cloud-based identity and access management service. Azure AD enables your employees access external resources, such as Microsoft 365, the Azure portal, and thousands of other SaaS applications. Azure Active Directory also helps them access internal resources like apps on your corporate intranet, and any cloud apps developed for your own organization.This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 
 <h2>Example of Azure Active Directory Hierarchy</h2>
-<img src="https://i.imgur.com/ISpqjhI.png" alt="Microsoft Active Directory Logo"/>
+<img src="https://i.imgur.com/UqasXeF.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
 
@@ -28,7 +26,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - [Setup Resources in Azure](https://youtu.be/GY8i0h2KDEM)
-<img src="https://i.imgur.com/bFP1ax5.jpg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YwRLdQA.png" height="140%" width="140%" alt="Disk Sanitization Steps"/>
 
 - [Ensure Connectivity between the client and Domain Controller](https://youtu.be/UkznzGTVZ1w)
 <img src="https://i.imgur.com/bFP1ax5.jpg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
