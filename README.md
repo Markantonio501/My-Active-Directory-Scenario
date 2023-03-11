@@ -26,19 +26,19 @@ Azure Active Directory (Azure AD) is a cloud-based identity and access managemen
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - [Setup Resources in Azure](https://youtu.be/GY8i0h2KDEM)
-<img src="https://i.imgur.com/YwRLdQA.png" height="140%" width="140%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YwRLdQA.png" height="120%" width="120%" alt="Disk Sanitization Steps"/>
 
 - [Ensure Connectivity between the client and Domain Controller](https://youtu.be/UkznzGTVZ1w)
-<img src="https://i.imgur.com/o1aW6V7.png" height="140%" width="140%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/o1aW6V7.png" height="120%" width="120%" alt="Disk Sanitization Steps"/>
 
 - [Install Active Directory](https://youtu.be/CtCgQSvhgfo)
-<img src="https://i.imgur.com/bFP1ax5.jpg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0zCB7ik.png" height="120%" width="120%" alt="Disk Sanitization Steps"/>
 
 - [Create an Admin and Normal User Account in AD](https://youtu.be/54BPxoaq7UY)
-<img src="https://i.imgur.com/bFP1ax5.jpg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bIQ0wBN.png" height="120%" width="120%" alt="Disk Sanitization Steps"/>
 
 - [Join Client-1 to your domain (mydomain.com)](https://youtu.be/3Q762NV63FM)
-<img src="https://i.imgur.com/bFP1ax5.jpg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wvVDOgZ.png" height="120%" width="120%" alt="Disk Sanitization Steps"/>
 
 - [Setup Remote Desktop for non-administrative users on Client-1](https://youtu.be/sdOH_2n7CxE)
-<img src="https://i.imgur.com/bFP1ax5.jpg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZRh690q.png" height="120%" width="120%" alt="Disk Sanitization Steps"/>
