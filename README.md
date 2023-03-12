@@ -27,7 +27,7 @@ Azure Active Directory (Azure AD) is a cloud-based identity and access managemen
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- [Setup Resources in Azure](https://youtu.be/GY8i0h2KDEM)
+- [Setup Resources in Azure](https://youtu.be/GY8i0h2KDEM) click me
 <img src="https://i.imgur.com/YwRLdQA.png" height="120%" width="120%" alt="Disk Sanitization Steps"/>
 
 - [Ensure Connectivity between the client and Domain Controller](https://youtu.be/UkznzGTVZ1w)
