@@ -17,6 +17,8 @@ Azure Active Directory (Azure AD) is a cloud-based identity and access managemen
 - Remote Desktop
 - Active Directory Domain Services
 - PowerShell
+- Clipchamp
+- OBS Studio
 
 <h2>Operating Systems Used </h2>
 
